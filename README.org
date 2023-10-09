@@ -1,0 +1,5 @@
+#+title: Readme
+
+* Joe R Marshall's Syntax-Rules Primer for the Merely Eccentric
+** Synopsis
+Tutorial for ~syntax-rules~ system in R5RS standard
